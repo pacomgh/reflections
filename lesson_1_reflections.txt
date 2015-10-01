@@ -1,0 +1,9 @@
+1 Under the line where was a change, has a the new line with the new
+
+2 with differents versions
+
+3 manually be hard and spend a lot of time, but with a control versions its really easy
+
+4 to not have problems when wish read the documents or see the differences
+
+5 to see the id's and the changes in the docs, and to see the new lines, the deleted lines, or another changes

@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Create a folder called .git, cuz after u must use to upload your repository to github
