@@ -1,2 +1,24 @@
 What happens when you initialize a repository? Why do you need to do it?
-Create a folder called .git, cuz after u must use to upload your repository to github
+Create a folder called .git, cuz after u must use to upload your repository to 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-is different cuz is the place where the files wait before upload to our repository
+offer a value where the files wait between working area and repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+to have multiple changes in the folder or files
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when u need do other file in other language or do anything else
+
+How do the diagrams help you visualize the branch structure?
+When u want to see one commit or a branch o comprae de differents commits or branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+I have only one code for the game and its consistent, has a lot of save time, 
+cuz in this way we can know how worked the code and know every changes
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros, not use a lot of time, is less tired, is fastest
+manually is more difficult, is tired, its a long process and u can be wrong
